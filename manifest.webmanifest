@@ -1,0 +1,15 @@
+{
+  "name": "Guia de Viagem WOC Panama 2026",
+  "short_name": "WOC Panama",
+  "description": "Guia de viagem da delegação brasileira — World of Coffee Panama 2026.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#f9f5e7",
+  "theme_color": "#4e7bc4",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
